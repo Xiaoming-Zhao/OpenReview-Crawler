@@ -2,7 +2,7 @@
 
 ## Scrape Information
 
-```Python
+```bash
 python crawler.py --save_f ./infos.p --driver_f /path/to/WebDriver/file
 ```
 
